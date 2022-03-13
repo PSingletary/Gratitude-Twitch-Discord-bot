@@ -18,7 +18,7 @@ Mable is a bot that Twitch Streamers use to show gratitude. Posts a Stream recap
  - If stream instability means stop/starts of stream would cause multiple posts, then the Last 8 hours of stream activity
 
 Important contextual requirements
- - Docker : docker-compose.yml
+ - Can be run in Docker : provide docker-compose.yml
 
 ### Stretch Features 1 : Web dashboard (improve UX for people who don't push code)
 
