@@ -1,16 +1,9 @@
 # Mable-Twitch-Discord-bot
-Mable is a bot that Twitch Streamers use to show gratitude. Posts a Stream recap to Discord
+Mable is a bot that Twitch Streamers use to show gratitude.
 
-## CORE FEATURE : Post Twitch stream summary to Discord (webhook)
+## Feature 1 Thank You Note : Post Twitch stream summary to webhook (Discord)
 
- - Hype Trains - How Many at each level
-(1 train at level 5, 2 trains at level 3)
- - Gifted Subs - Who gave How Many
-(Gifter 1 gave 5 subs, Gifter 2 gave 10 subs)
- - Bits - Who Gave
- - Subscribed/Resusbscribed - Who
- - New Followers - How Many
- - Total Followers - How Many
+https://github.com/PSingletary/Mable-Twitch-Discord-bot/blob/main/Twitch_Stream_Summary_References.md
 
 **Match Twitch Account to Discord Account**
  - One summary per stream.
@@ -19,15 +12,14 @@ Mable is a bot that Twitch Streamers use to show gratitude. Posts a Stream recap
 Important contextual requirements
  - Can be run in Docker : provide docker-compose.yml
 
-### Stretch Features 1 : Web dashboard (improve UX for people who don't push code)
-
- - Authenticate in With Twitch
- - Associate to Discord Server
- - any items in core feature can be turned on/off
- - Set the time frame for Events (Last 8 hours)
-
-### Stretch Features 2 : End Credits - like a SteamElements overlay, access with a URL in OBS
+## Feature 2 Stream supported by viewers like you - overlay, access with a URL in OBS
  - Thanks to Mods active during stream
  - Thanks to People who gifted subs or cheered bits (don't include Mods)
  - Thanks to Active Subscribers (don't repeat above two)
  - Thanks to Active Chatters (don't repeat above 3)
+
+## UX : Web dashboard
+ - Authenticate with Twitch
+ - Associate to Discord Server / Channel
+ - Any items in features can be turned on/off
+ - Set the time frame for Events (Last 8 hours)
