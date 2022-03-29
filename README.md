@@ -8,8 +8,7 @@ Mable is a bot that Twitch Streamers use to show gratitude. Posts a Stream recap
  - Gifted Subs - Who gave How Many
 (Gifter 1 gave 5 subs, Gifter 2 gave 10 subs)
  - Bits - Who Gave
- - Resusbscribed - Who
- - Subscribed - Who
+ - Subscribed/Resusbscribed - Who
  - New Followers - How Many
  - Total Followers - How Many
 
