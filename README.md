@@ -3,7 +3,7 @@ Mable is a bot that Twitch Streamers use to show gratitude.
 
 ## Feature 1 Thank You Note : Post Twitch stream summary to webhook (Discord)
 
-https://github.com/PSingletary/Mable-Twitch-Discord-bot/blob/main/Twitch_Stream_Summary_References.md
+https://github.com/PSingletary/Gratitude-Twitch-Discord-bot/blob/main/Twitch_Stream_Summary_References.md
 
 **Match Twitch Account to Discord Account**
  - One summary per stream.
