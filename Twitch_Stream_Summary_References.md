@@ -25,7 +25,7 @@ https://dev.twitch.tv/docs/authentication#scopes
 - [ ] Read ReSubscribe and record each chatter (https://dev.twitch.tv/docs/eventsub/eventsub-subscription-types#channelsubscriptionmessage)
 - [ ] Read New Followers (https://dev.twitch.tv/docs/eventsub/eventsub-subscription-types#channelfollow) *NO SCOPE NEEDED*
 - [ ] Total Count of New Followers during stream - Data Storage
-- [ ] Write data to discord webhook (https://discord.com/developers/docs/resources/webhook#create-webhook)
+- [ ] Write data to webhook (https://discord.com/developers/docs/resources/webhook#create-webhook)
 # Discord references
 * Discord Developer Documentation : https://discord.com/developers/docs/intro
 * Official Discord Developers server : https://discord.gg/discord-developers
