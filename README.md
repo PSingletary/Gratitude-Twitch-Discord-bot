@@ -1,5 +1,5 @@
-# Mable-Twitch-Discord-bot
-Mable is a bot that Twitch Streamers use to show gratitude.
+# Gratitude-Twitch-Discord-bot
+Gratitude is a bot that Twitch Streamers use to show gratitude.
 
 ## Feature 1 Thank You Note : Post Twitch stream summary to webhook (Discord)
 
