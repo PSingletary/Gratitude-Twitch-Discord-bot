@@ -27,7 +27,7 @@ Some Preliminary research has been completed on API and are noted here -> https:
  - Thanks to Active Subscribers (don't repeat above two)
  - Thanks to Active Chatters (don't repeat above 3)
 
-## Feature 4 Run in docker container or deployable to Heroku
+## Feature 4 Run localy in a container or deployable to IaaS
 
 ## Feature 5 Web dashboard
  - Authenticate with Twitch
